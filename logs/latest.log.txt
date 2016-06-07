@@ -1,0 +1,329 @@
+[00:00:10] [Server thread/INFO]: <Poopz> oooh the beacon actaully helps in finding home
+[00:00:19] [Server thread/INFO]: <Shiiyuri> e.e
+[00:00:32] [Server thread/INFO]: <Poopz> my beacon atleast.
+[00:00:39] [Server thread/INFO]: <Poopz> yours isn't bright enough
+[00:00:39] [Server thread/INFO]: [Shiiyuri: Given [Dirt] * 64 to Shiiyuri]
+[00:00:51] [Server thread/INFO]: <Shiiyuri> mines camouflaged since you copied it
+[00:00:56] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:01:05] [Server thread/INFO]: [Poopz: Set own game mode to Survival Mode]
+[00:01:13] [Server thread/INFO]: [Poopz: Given [Paper] * 30 to Poopz]
+[00:01:13] [Server thread/INFO]: [000: Set own game mode to Creative Mode]
+[00:02:06] [Server thread/INFO]: <Shiiyuri> i'm above the clouds!
+[00:02:12] [Server thread/INFO]: [Poopz: Set own game mode to Creative Mode]
+[00:02:41] [Server thread/INFO]: <Shiiyuri> i see real clouds and a river!
+[00:02:44] [Server thread/INFO]: [Poopz: Given [Paper] * 5 to Poopz]
+[00:02:47] [Server thread/INFO]: <Shiiyuri> this is so pretty
+[00:03:04] [Server thread/INFO]: <Poopz> are we at the corner of the map?
+[00:03:24] [Server thread/INFO]: [Poopz: Given [Empty Map] * 1 to Poopz]
+[00:03:27] [Server thread/INFO]: <Shiiyuri> top half of one on mine
+[00:03:40] [Server thread/INFO]: <Shiiyuri> why can't i see your dots on my map?
+[00:03:46] [Server thread/INFO]: <Poopz> aaaah there we bo
+[00:03:56] [Server thread/INFO]: [000: Set own game mode to Survival Mode]
+[00:04:02] [Server thread/INFO]: <Poopz> give Poopz paper 16
+[00:04:08] [Server thread/INFO]: [Poopz: Given [Paper] * 16 to Poopz]
+[00:04:19] [Server thread/INFO]: [000: Given [Bed] * 1 to 000]
+[00:04:34] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:04:51] [Server thread/INFO]: <Shiiyuri> anybody remember how to put maps on walls?
+[00:05:48] [Server thread/INFO]: <Shiiyuri> bunny!
+[00:05:53] [Server thread/INFO]: <000> I killed one
+[00:06:00] [Server thread/INFO]: <000> But it didn't give me anything...
+[00:06:08] [Server thread/INFO]: <Shiiyuri> it should give you food
+[00:06:18] [Server thread/INFO]: <Shiiyuri> can make rabbit stew
+[00:06:48] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:06:54] [Server thread/INFO]: <Poopz> btw the mine jakub and I made is beside our house
+[00:06:59] [Server thread/INFO]: <Poopz> howmany maps
+[00:07:24] [Server thread/INFO]: <Shiiyuri> ?
+[00:07:29] [Server thread/INFO]: [Poopz: Teleported Poopz to Shiiyuri]
+[00:07:33] [Server thread/INFO]: <Shiiyuri> maps to what?
+[00:07:39] [Server thread/INFO]: <Shiiyuri> nts, we're map 8
+[00:08:08] [Server thread/INFO]: <Shiiyuri> oooooh our world is a circle
+[00:08:33] [Server thread/INFO]: <Poopz> i see boats
+[00:08:36] [Server thread/INFO]: <Poopz> did u make them?
+[00:08:36] [Server thread/INFO]: <Shiiyuri> of 21 maps....how does that work
+[00:08:42] [Server thread/INFO]: <Shiiyuri> i made a couple
+[00:08:45] [Server thread/INFO]: <Poopz> kk
+[00:08:47] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[00:08:51] [Server thread/INFO]: <Poopz> snooow
+[00:09:06] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:10:05] [Server thread/INFO]: <Shiiyuri> made a hole in natural creeper terrain...
+[00:10:58] [Server thread/INFO]: <Shiiyuri> ...realy?!
+[00:11:06] [Server thread/INFO]: <Poopz> wait u havd 2 maps
+[00:11:13] [Server thread/INFO]: <Poopz> in your hands
+[00:11:14] [Server thread/INFO]: <Shiiyuri> yeap
+[00:11:20] [Server thread/INFO]: <Poopz> sheeeeiit
+[00:11:36] [Server thread/INFO]: <Shiiyuri> is this here keith is exploring?
+[00:11:43] [Server thread/INFO]: <Poopz> i think so
+[00:11:52] [Server thread/INFO]: <000> ?
+[00:12:01] [Server thread/INFO]: Poopz fell out of the world
+[00:12:04] [Server thread/INFO]: <Shiiyuri> uhhh
+[00:12:09] [Server thread/INFO]: <Poopz> hmm
+[00:12:10] [Server thread/INFO]: <Shiiyuri> did you go to the end?
+[00:12:16] [Server thread/INFO]: <Poopz> i guess so
+[00:12:23] [Server thread/INFO]: [Poopz: Teleported Poopz to Shiiyuri]
+[00:13:12] [Server thread/INFO]: <Shiiyuri> i boat faster than my world loads
+[00:14:33] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:14:43] [Server thread/INFO]: <000> Mapping the world?
+[00:15:14] [Server thread/INFO]: <Shiiyuri> ....yep
+[00:15:26] [Server thread/INFO]: <Shiiyuri> how did you fall out of the world? my maps keeps loading more stuff
+[00:16:09] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:16:32] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:17:10] [Server thread/WARN]: Shiiyuri moved wrongly!
+[00:17:34] [Server thread/INFO]: <Poopz> why is my lava black
+[00:17:52] [Server thread/INFO]: <Poopz> kk nvm
+[00:18:21] [Server thread/INFO]: <Shiiyuri> oooh btw, i need to clone these maps for you guise to show up on them
+[00:19:35] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:19:56] [Server thread/INFO]: [Shiiyuri: Given [Item Frame] * 1 to Shiiyuri]
+[00:21:26] [Server thread/INFO]: [Shiiyuri: Given [Paper] * 64 to Shiiyuri]
+[00:21:56] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:22:45] [Server thread/INFO]: <Shiiyuri> uuhhh 'kay...so the map numbers have nothing to do with anything...
+[00:23:18] [Server thread/INFO]: <000> Probably just an id for reference
+[00:23:34] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:23:46] [Server thread/INFO]: [Shiiyuri: Given [Item Frame] * 8 to Shiiyuri]
+[00:24:08] [Server thread/INFO]: [Shiiyuri: Given [Item Frame] * 3 to Shiiyuri]
+[00:25:06] [Server thread/INFO]: <Shiiyuri> i'm basically now playing puzzle with all these maps
+[00:27:26] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[00:27:54] [Server thread/INFO]: [Shiiyuri: Teleported Shiiyuri to Poopz]
+[00:28:02] [Server thread/INFO]: <Shiiyuri> oooh you're right here
+[00:28:36] [Server thread/INFO]: <Shiiyuri> oh yeah, like that doesn't scream mordor...
+[00:29:34] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[00:30:41] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[00:30:56] [Server thread/INFO]: [Shiiyuri: Given [Dirt] * 64 to Shiiyuri]
+[00:31:15] [Server thread/INFO]: [000: Teleported 000 to Poopz]
+[00:31:18] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 2 to Shiiyuri]
+[00:32:07] [Server thread/INFO]: <Shiiyuri> ...i killed a zombie and it gave me a potato....
+[00:32:14] [Server thread/INFO]: <Poopz> nice?
+[00:32:27] [Server thread/INFO]: <Shiiyuri> i guess...
+[00:32:34] [Server thread/INFO]: <Shiiyuri> a cow!
+[00:32:35] [Server thread/INFO]: [Poopz: Saved the world]
+[00:32:41] [Server thread/INFO]: <Shiiyuri> we should have a cow
+[00:32:51] [Server thread/INFO]: [Shiiyuri: Teleported Shiiyuri to Poopz]
+[00:33:01] [Server thread/INFO]: <Shiiyuri> mf what is that
+[00:33:20] [Server thread/INFO]: <Shiiyuri> did you build a shed?
+[00:33:36] [Server thread/INFO]: <Poopz> coffin
+[00:33:47] [Server thread/INFO]: <Shiiyuri> ....for...
+[00:33:57] [Server thread/INFO]: <Poopz> dead people
+[00:33:57] [Server thread/INFO]: <000> Interesting?
+[00:34:09] [Server thread/INFO]: <000> I see!
+[00:34:15] [Server thread/INFO]: <Shiiyuri> wanna see my map room?
+[00:34:21] [Server thread/INFO]: <000> OOow
+[00:34:53] [Server thread/INFO]: <000> How do you do that?
+[00:34:55] [Server thread/INFO]: <Shiiyuri> sewexcite
+[00:35:00] [Server thread/INFO]: <Shiiyuri> magig
+[00:35:04] [Server thread/INFO]: <Shiiyuri> wai
+[00:35:31] [Server thread/INFO]: <Shiiyuri> are you having door trouble?
+[00:35:52] [Server thread/INFO]: <Shiiyuri> ...scure me
+[00:35:53] [Server thread/INFO]: <Poopz> look away
+[00:35:56] [Server thread/INFO]: <Shiiyuri> no
+[00:36:12] [Server thread/INFO]: <000> Does the map update in realtime?
+[00:36:26] [Server thread/INFO]: <Shiiyuri> not sure
+[00:36:30] [Server thread/INFO]: <Poopz> should we test it?
+[00:36:32] [Server thread/INFO]: <000> It doesn't show the other players
+[00:36:35] [Server thread/INFO]: <Poopz> look at my house brb
+[00:36:41] [Server thread/INFO]: <Shiiyuri> it doesn't show other players
+[00:36:46] [Server thread/INFO]: <Poopz> blocks i mean
+[00:37:11] [Server thread/INFO]: <Poopz> it doesn't
+[00:37:20] [Server thread/INFO]: <Poopz> my house looks evil
+[00:37:30] [Server thread/INFO]: <Shiiyuri> i told you it looks like morder
+[00:37:39] [Server thread/INFO]: <Shiiyuri> mordor*
+[00:37:56] [Server thread/INFO]: <Poopz> lol I was aiming for the tower the none gandolf dude died in
+[00:38:08] [Server thread/INFO]: <Shiiyuri> ....i see
+[00:38:15] [Server thread/INFO]: <Shiiyuri> well, at least its the same franchise
+[00:38:18] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[00:38:47] [Server thread/WARN]: 000 moved wrongly!
+[00:38:59] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:39:04] [Server thread/INFO]: <Shiiyuri> you sure you don't want pie?
+[00:39:11] [Server thread/INFO]: 000 fell from a high place
+[00:39:18] [Server thread/INFO]: <000> The elevator killed me again..
+[00:39:31] [Server thread/INFO]: <Poopz> mine?
+[00:39:38] [Server thread/INFO]: <000> Yah
+[00:39:49] [Server thread/INFO]: <Poopz> wait it didn't work
+[00:40:09] [Server thread/INFO]: <Poopz> down doesn't work, nooooo
+[00:40:50] [Server thread/INFO]: [000: Set own game mode to Creative Mode]
+[00:41:27] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[00:43:18] [Server thread/INFO]: <Shiiyuri> how do i make sugar ._.
+[00:43:28] [Server thread/INFO]: <Poopz> sugare cane
+[00:43:30] [Server thread/INFO]: <000> Sugar cane
+[00:43:38] [Server thread/INFO]: <Shiiyuri> just straight?
+[00:43:43] [Server thread/INFO]: <000> Yes
+[00:43:47] [Server thread/INFO]: <000> 1x1
+[00:45:16] [Server thread/INFO]: <Shiiyuri> made piieeee
+[00:45:24] [Server thread/INFO]: <Poopz> my elevator broke :(
+[00:45:55] [Server thread/INFO]: [000: Set own game mode to Survival Mode]
+[00:45:55] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[00:46:00] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:46:07] [Server thread/INFO]: <000> I'm going to call it a day
+[00:46:15] [Server thread/INFO]: <Poopz> sammme
+[00:46:18] [Server thread/INFO]: <000> Bye!
+[00:46:21] [Server thread/INFO]: <Shiiyuri> okie dokie
+[00:46:22] [Server thread/INFO]: [000: Saved the world]
+[00:46:24] [Server thread/INFO]: <Shiiyuri> gnitesss
+[00:46:27] [Server thread/INFO]: 000 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:46:27] [Server thread/INFO]: 000 left the game
+[00:47:35] [Server thread/INFO]: <Poopz> kk fiiiixed
+[00:47:55] [Server thread/INFO]: <Shiiyuri> i'm going to keep mapping
+[00:48:06] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[00:49:00] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:49:47] [Server thread/INFO]: <Shiiyuri> i can't believe theres a cow soclose by
+[00:49:57] [Server thread/INFO]: <Poopz> uhm kill it
+[00:50:02] [Server thread/INFO]: <Poopz> its one of my spawns i think
+[00:50:18] [Server thread/INFO]: <Shiiyuri> ...eoh right..
+[00:50:25] [Server thread/INFO]: <Shiiyuri> that's less exciting then
+[00:50:55] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:51:11] [Server thread/INFO]: [Shiiyuri: Teleported Shiiyuri to Poopz]
+[00:51:16] [Server thread/INFO]: <Shiiyuri> ow
+[00:53:02] [Server thread/INFO]: <Shiiyuri> where is a good place to fly off of?
+[00:53:37] [Server thread/INFO]: <Shiiyuri> jeesuz farzad
+[00:53:48] [Server thread/INFO]: <Poopz> what?
+[00:53:53] [Server thread/INFO]: [Poopz: Teleported Poopz to Shiiyuri]
+[00:54:03] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[00:54:07] [Server thread/INFO]: <Shiiyuri> the heads
+[00:54:12] [Server thread/INFO]: <Poopz> oh lol
+[00:54:15] [Server thread/INFO]: <Poopz> need to be dark
+[00:55:21] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:55:37] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:56:21] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:57:20] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[00:57:45] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[00:58:39] [Server thread/INFO]: <Shiiyuri> ...did you leave a boat at my house?
+[00:58:44] [Server thread/INFO]: <Poopz> no
+[00:58:59] [Server thread/INFO]: <Shiiyuri> ...huh...aiite then
+[01:03:03] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:03:06] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:04:04] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:04:13] [Server thread/INFO]: [Shiiyuri: Teleported Shiiyuri to Poopz]
+[01:04:24] [Server thread/INFO]: <Shiiyuri> ....uhm
+[01:04:36] [Server thread/INFO]: <Shiiyuri> LOL just realized, jakub is going to be so mad when he gets in
+[01:04:46] [Server thread/INFO]: <Poopz> whhhat
+[01:04:51] [Server thread/INFO]: <Poopz> lol why mad
+[01:04:53] [Server thread/INFO]: <Poopz> amazed
+[01:04:58] [Server thread/INFO]: <Shiiyuri> we built so much without him
+[01:05:03] [Server thread/INFO]: <Shiiyuri> and using cheats
+[01:05:08] [Server thread/INFO]: <Poopz> we don't tell him
+[01:05:09] [Server thread/INFO]: <Shiiyuri> are you making a fighting pit?!
+[01:05:24] [Server thread/INFO]: <Shiiyuri> okay i think having an freaking ender head on your house is a bit much
+[01:05:34] [Server thread/INFO]: <Shiiyuri> what is that purple thing
+[01:05:44] [Server thread/INFO]: <Poopz> no idea
+[01:05:49] [Server thread/INFO]: <Poopz> i was hoping they would fight
+[01:05:52] [Server thread/INFO]: <Shiiyuri> jeezus and i thought we were sick for burning a cow
+[01:06:00] [Server thread/INFO]: <Poopz> lol
+[01:06:08] [Server thread/INFO]: <Shiiyuri> put a wolf in there and hit something
+[01:06:26] [Server thread/INFO]: <Shiiyuri> or infect them all with zombieness
+[01:06:40] [Server thread/INFO]: <Shiiyuri> yo train them first?
+[01:07:15] [Server thread/INFO]: <Poopz> fuck
+[01:07:16] [Server thread/INFO]: <Poopz> lol
+[01:07:18] [Server thread/INFO]: <Shiiyuri> uhhh
+[01:07:32] [Server thread/INFO]: <Shiiyuri> LOOOOL
+[01:07:39] [Server thread/INFO]: <Poopz> where did it go
+[01:07:44] [Server thread/INFO]: <Shiiyuri> i killed it
+[01:07:46] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:07:47] [Server thread/INFO]: <Poopz> kk good
+[01:08:13] [Server thread/INFO]: <Shiiyuri> the soundss
+[01:08:15] [Server thread/INFO]: <Poopz> interesting
+[01:08:19] [Server thread/INFO]: <Shiiyuri> why did you make it out of wood?
+[01:09:42] [Server thread/INFO]: <Poopz> oh its gonna be a tree later on
+[01:09:49] [Server thread/INFO]: <Shiiyuri> uhm
+[01:09:52] [Server thread/INFO]: <Shiiyuri> 'kay
+[01:10:01] [Server thread/INFO]: <Poopz> there is a branch already
+[01:11:15] [Server thread/INFO]: <Shiiyuri> ...did you happen to not spawn villages in this world?
+[01:11:19] [Server thread/INFO]: <Poopz> all of them died
+[01:11:29] [Server thread/INFO]: <Poopz> which wolrd what?
+[01:11:38] [Server thread/INFO]: <Poopz> the purple box is op
+[01:11:42] [Server thread/INFO]: <Poopz> it killed everyone
+[01:11:48] [Server thread/INFO]: <Shiiyuri> so what is it?
+[01:12:02] [Server thread/INFO]: <Poopz> shulker i think
+[01:12:38] [Server thread/INFO]: [Shiiyuri: Teleported Shiiyuri to Poopz]
+[01:12:47] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:12:53] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:13:18] [Server thread/INFO]: <Shiiyuri> i lag so hard at home :<
+[01:13:27] [Server thread/INFO]: <Poopz> are u using surface?
+[01:13:38] [Server thread/INFO]: <Shiiyuri> nope
+[01:13:42] [Server thread/INFO]: <Shiiyuri> get out of my house
+[01:13:48] [Server thread/INFO]: <Poopz> :(
+[01:13:53] [Server thread/INFO]: <Shiiyuri> whatchu in there for?
+[01:14:00] [Server thread/INFO]: <Poopz> one last check of my house then im going awayyyyy for 1 month
+[01:14:04] [Server thread/INFO]: <Shiiyuri> i offered you pie earlier :<
+[01:14:06] [Server thread/INFO]: <Poopz> lagg
+[01:14:12] [Server thread/INFO]: <Poopz> see if i lag to
+[01:14:15] [Server thread/INFO]: <Shiiyuri> ohh, well i mean, this whole area
+[01:14:22] [Server thread/INFO]: <Shiiyuri> like the home map
+[01:14:33] [Server thread/INFO]: <Poopz> my elevator does lag me a bit
+[01:14:42] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:14:57] [Server thread/INFO]: <Shiiyuri> can't even walk straight
+[01:15:10] [Server thread/INFO]: <Poopz> go to the nether
+[01:15:14] [Server thread/INFO]: <Poopz> my computer died
+[01:15:21] [Server thread/WARN]: Poopz moved too quickly! -250.33326093095405,-0.9169221821935309,17.510748466549067
+[01:15:26] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:15:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[01:15:52] [Server thread/WARN]: Poopz moved too quickly! 251.47599701338592,1.0,-18.126348349898077
+[01:19:32] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[01:19:38] [Server thread/INFO]: <Shiiyuri> are you stil in game?
+[01:19:40] [Server thread/INFO]: [Poopz: Set own game mode to Survival Mode]
+[01:20:18] [Server thread/INFO]: <Poopz> i fucked up
+[01:20:24] [Server thread/INFO]: <Shiiyuri> don't save dont save
+[01:20:25] [Server thread/INFO]: [Poopz: Set own game mode to Creative Mode]
+[01:20:36] [Server thread/INFO]: <Shiiyuri> all my stuffff
+[01:20:38] [Server thread/INFO]: <Poopz> nothing hug
+[01:20:48] [Server thread/INFO]: <Shiiyuri> wtff
+[01:20:55] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:21:10] [Server thread/INFO]: <Poopz> fixed
+[01:21:25] [Server thread/INFO]: <Shiiyuri> you murdered all my farming :<
+[01:21:30] [Server thread/INFO]: <Poopz> oh :(
+[01:21:46] [Server thread/INFO]: [Poopz: Set own game mode to Survival Mode]
+[01:21:48] [Server thread/INFO]: <Shiiyuri> T^T
+[01:21:56] [Server thread/INFO]: Poopz tried to swim in lava
+[01:22:43] [Server thread/INFO]: <Poopz> kk I'll tell u how to run the server tomorrow
+[01:22:45] [Server thread/INFO]: <Poopz> good night
+[01:22:48] [Server thread/INFO]: Poopz lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:22:48] [Server thread/INFO]: Poopz left the game
+[01:23:18] [Server thread/INFO]: [Server] Server will be up till 3:23
+[01:24:17] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:26:44] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:27:44] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:27:47] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:28:48] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[01:32:09] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:33:34] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:35:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2799ms behind, skipping 55 tick(s)
+[01:36:13] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:37:39] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:38:46] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[01:39:38] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[01:39:57] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:42:54] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:43:00] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:43:07] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:43:14] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:48:15] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[01:49:24] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[01:50:03] [Server thread/INFO]: [Shiiyuri: Given [Empty Map] * 1 to Shiiyuri]
+[01:50:44] [Server thread/INFO]: [Shiiyuri: Given [Item Frame] * 1 to Shiiyuri]
+[01:52:16] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:53:23] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[01:53:27] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:57:52] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[01:58:29] [Server thread/INFO]: [Shiiyuri: Given [Paper] * 64 to Shiiyuri]
+[01:59:12] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[01:59:16] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[01:59:19] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[02:06:39] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[02:08:40] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[02:09:05] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[02:10:38] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[02:11:51] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[02:13:29] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[02:18:06] [Server thread/INFO]: [Shiiyuri: Set own game mode to Survival Mode]
+[02:20:16] [Server thread/INFO]: [Shiiyuri: Changing to clear weather]
+[02:20:18] [Server thread/INFO]: [Shiiyuri: Set the time to 1000]
+[02:20:40] [Server thread/INFO]: [Shiiyuri: Set own game mode to Creative Mode]
+[02:21:32] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[02:21:55] [Server thread/INFO]: Shiiyuri lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:21:55] [Server thread/INFO]: Shiiyuri left the game
+[02:25:20] [Server thread/INFO]: Shiiyuri[/174.112.88.240:49899] logged in with entity id 899264 at (277.4810365521996, 65.0, -48.44124375078057)
+[02:25:20] [Server thread/INFO]: Shiiyuri joined the game
+[02:26:17] [Server thread/INFO]: [Shiiyuri: Saved the world]
+[02:26:20] [Server thread/INFO]: Shiiyuri lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:26:20] [Server thread/INFO]: Shiiyuri left the game
+[04:08:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1973815ms behind, skipping 39476 tick(s)
+[08:55:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10014306ms behind, skipping 200286 tick(s)
+[12:26:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4825649ms behind, skipping 96512 tick(s)
+[15:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 849489ms behind, skipping 16989 tick(s)
